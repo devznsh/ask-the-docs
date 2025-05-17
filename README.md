@@ -2,8 +2,17 @@
 
 A lightweight **Retrieval-Augmented Generation (RAG)** app that allows users to ask questions from their uploaded documents (`.pdf` or `.txt`). Powered by **Streamlit**, **ChromaDB**, **SentenceTransformers**, and optionally deployable with **Docker**.
 
+## 📎 Demo File
 
-
+A sample `.txt` file used in the demo video is included in the repository.
+👉 [aboutme.txt](./aboutme.txt)
+It contains the following text :
+```
+Hello my name is Devansh gaur
+I am from Gurgaon
+I am currently pursuing B.Tech Computer Science 
+```
+This file was uploaded to the deployed app to demonstrate how the RAG system extracts context and answers questions based on user-provided documents.
 
 🚀 WORKING OF THE APPLICATION :
 
