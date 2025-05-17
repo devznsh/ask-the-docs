@@ -2,7 +2,13 @@
 
 A lightweight **Retrieval-Augmented Generation (RAG)** app that allows users to ask questions from their uploaded documents (`.pdf` or `.txt`). Powered by **Streamlit**, **ChromaDB**, **SentenceTransformers**, and optionally deployable with **Docker**.
 
-WORKING OF THE APPLICATION :
+
+
+
+🚀 WORKING OF THE APPLICATION :
+
+https://github.com/user-attachments/assets/b737b33a-c7f4-4d1b-b295-002160d333dc
+
 
 
 
